@@ -20,7 +20,7 @@ int main()
 	
 	//cout << "\t\t\t like" << endl;
 	//cout << "\t\t flies \t\t an" << endl;
-	//cout << "your health \t\t\t\t arrow ... ping!" << endl;
+	//cout << "your health \t\t\t\t arrow ... ping!!" << endl;
 	
 
 	return 0;
